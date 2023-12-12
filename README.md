@@ -1,5 +1,5 @@
 
-# OpenClassrooms: Projet 4 - Résolvez des problèmes en utilisant des algorithmes en Python 
+# OpenClassrooms: Projet 7 - Résolvez des problèmes en utilisant des algorithmes en Python 
 
 ![projet 4 AlgoInvest&Trade force brute et optimisée](.readme/Landry_Anthony_AlgoInvest&Trade_openclassrooms-developpeur_python.png)
 
